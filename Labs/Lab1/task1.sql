@@ -1,0 +1,1 @@
+SELECT 'Kadjaia Vladimir Nikolaevich'

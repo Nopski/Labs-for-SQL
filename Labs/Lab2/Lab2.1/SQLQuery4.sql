@@ -1,0 +1,1 @@
+SELECT CONCAT(LEFT(LastName, 2), LEFT(FirstName, 4), '@Kadjaia') AS 'EMAIL'  FROM Employees

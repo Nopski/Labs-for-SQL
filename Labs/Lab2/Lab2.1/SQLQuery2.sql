@@ -1,0 +1,1 @@
+SELECT LEN('Kadjaia') AS 'Surname'

@@ -1,0 +1,1 @@
+SELECT ShipAddress FROM Orders

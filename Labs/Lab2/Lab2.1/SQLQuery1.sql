@@ -1,0 +1,1 @@
+SELECT COUNT_BIG(*) AS 'BIG_NUMBER' FROM Customers
